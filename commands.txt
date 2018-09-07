@@ -1,4 +1,7 @@
-    1  git --version
+    1 THIS IS ME LEARNING BASH in sotware carpentry 
+    
+    
+    git --version
     2  nano --version
     3  nano
     4  wc cubane.pdb
@@ -103,6 +106,7 @@
   103  $ git config --global core.editor "nano -
 $ git config --global core.editor "nano -w"
 
+THIS IS ME SETTING up git hlocal repositoty and remote repository
 
 $ git config --global core.editor "nano -w"
 echo "# Planets" >> README.md
@@ -116,6 +120,9 @@ https://github.com/vlad/planets.git
 $ git remote add origin https://github.com/vlad/planets.git
 $ git remote -v
 
+THIS IS ME ADDING my git remote repository Power-Puff
+YOU CAN USE markdown as a text editing format to save text to GIT HUB eg papers and this version controls things for ages 
+
 git remote add origin https://github.com/Power-Puff/Planets
 git push origin master
 git remote -v
@@ -126,6 +133,8 @@ $ git config --global user.name "Power-Puff"
   107  git status
   108  git init
   109  $ git config --global core.editor "nano -w"
+  
+  'FIND OUT HOW TO work out where you are and add local repository'
   110  pwd
   111  git status
   112  ls .git
@@ -137,6 +146,9 @@ $ git config --global user.name "Power-Puff"
   118  ls
   119  echo "# Planets" >> README.md
   120  git init
+  'ADD A FILE LOCALLY and then PUSH to remote repository FOLLOWED BY COMMIT 
+  '
+  
   121  git add README.md
   122  git commit -m "first commit"
   123  git remote add origin https://github.com/Power-Puff/Planets.git
