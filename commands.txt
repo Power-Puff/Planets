@@ -1,0 +1,155 @@
+    1  git --version
+    2  nano --version
+    3  nano
+    4  wc cubane.pdb
+    5  ls molecules
+    6  cd
+    7  pwd
+    8  cd Desktop
+    9  pwd
+   10  ls -F
+   11  ls -F
+   12  cd data-shell
+   13  ls -F
+   14  cd molecules
+   15  ls -F
+   16  cd wc *.pdb.wc
+   17  cd wc *.pdb
+   18  cd wc *.pdb
+   19  wc *.pdb
+   20  wc -l*.pdb
+   21  wc -l
+   22  ls -F
+   23  cd Desktop
+   24  ls -F
+   25  cd data-shell
+   26  ls -F
+   27  ls molecules
+   28  wc *.pdb
+   29  cd molecules
+   30  wc *.pdb
+   31  wc -l
+   32  cd creatures
+   33  cd data-shell
+   34  cd data-shell
+   35  cd Desktop
+   36  cd data-shell
+   37   ls molecules
+   38   wc *.pdb
+   39  cd molecules
+   40  wc -l *.pdb
+   41  wc -l *.pdb > lengths.txt
+   42   ls lengths.txt
+   43  lengths.txt
+   44  ls lengths.txt
+   45  cat lengths.txt
+   46  sort -n
+   47  pwd
+   48  ls
+   49  ls -lrt
+   50  cat lengths.txt 
+   51  cd creatures
+   52  cd ..
+   53  pwd
+   54  cd creatures/
+   55  ls -F
+   56  for filename in basilisk.dat unicorn.dat; do    head -n 3 $filename#; done
+   57  ls -F
+   58  for filename in basilisk.dat unicorn.dat; do    head -n 3 $filename; done
+   59  cd data-shell/molecules
+   60  cd data-shell
+   61  cd data shell
+   62  ls -F
+   63  cd Desktop
+   64  pwd
+   65  cd Desktop
+   66  ls
+   67  ls -a
+   68  cd .
+   69  cd ..
+   70  ls
+   71  cd ..
+   72  ls
+   73  cd -
+   74  pwd
+   75  cd ~/Desktop/
+   76  cd /Users/srilakshmi/Desktop/
+   77  cd /Users/SriL/Desktop/
+   78  ls
+   79  ls -FG
+   80  cd data-shell/
+   81  ls
+   82  ls -FG
+   83  cd molecules/
+   84  ls
+   85  pwd
+   86  ls
+   87  for filename in *.dat; do head -n 3$filename >>topthree.txt; done
+   88  for filename in *.dat; do    echo head -n 3$filename > $filename-head.txt; done
+   89  cd .
+   90  cd..
+   91  cd ..
+   92  $ git config --global user.name "Power Puff"
+   93  git --help
+   94  $ git config --global user.name "Power Puff"
+   95  git status
+   96  git 
+   97  $ git config --global user.name "Power Puff"
+   98  git config --global user.name "Power Puff"
+   99  git config --global user.name "Power Puff"
+  100  git config --global user.email "srilakshmi.sharma@gmail.com"
+  101  git config --global core.autocrlf input
+  102  $ git config --global core.editor "nano -w"
+  103  $ git config --global core.editor "nano -
+$ git config --global core.editor "nano -w"
+
+
+$ git config --global core.editor "nano -w"
+echo "# Planets" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Power-Puff/Planets.git
+git push -u origin master
+$ git remote add originhttps://github.com/vlad/planets.git
+https://github.com/vlad/planets.git
+$ git remote add origin https://github.com/vlad/planets.git
+$ git remote -v
+
+git remote add origin https://github.com/Power-Puff/Planets
+git push origin master
+git remote -v
+$ git config --global user.name "Power-Puff"
+  104  git remote -v
+  105  git remote add origin https://github.com/Power-Puff/Planets
+  106  git remote add origin https://github.com/Power-Puff/Planets.git
+  107  git status
+  108  git init
+  109  $ git config --global core.editor "nano -w"
+  110  pwd
+  111  git status
+  112  ls .git
+  113  rm -rf .git
+  114  mkdir planets
+  115  cd planets/
+  116  ls
+  117  git init
+  118  ls
+  119  echo "# Planets" >> README.md
+  120  git init
+  121  git add README.md
+  122  git commit -m "first commit"
+  123  git remote add origin https://github.com/Power-Puff/Planets.git
+  124  git push -u origin master
+  125  git push -u origin master
+  126  pwd
+  127  ls
+  128  ls
+  129  nano README.md 
+  130  git status
+  131  git add README.md 
+  132  git status
+  133  git commit -m 'some markdown examples'
+  134  git push
+  135  history
+  136  history > commands.txt
